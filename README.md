@@ -191,7 +191,7 @@ index.html
 
 ## 👨‍💻 المطور
 
-**Awab Wd Bashry**
+**Awab Bashary | AwabBuilds**
 
 💻 Web Developer  
 🤖 AI Enthusiast  
@@ -390,7 +390,7 @@ NOVA DIGITAL can be further developed into a complete digital agency platform by
 
 ## 👨‍💻 Developer
 
-**Awab Wd Bashry**
+**Awab Bashary | AwabBuilds**
 
 💻 Web Developer  
 🤖 AI Enthusiast  
